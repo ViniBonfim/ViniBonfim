@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 SEJA BEM-VINDO AO MEU GITHUB!
 
-<!--
-**ViniBonfim/ViniBonfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Prazer, sou **Vinicius de Araujo Bonfm** 👨‍💻
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Sobre mim:
+
+🎓 Estudante de **Engenharia da Computação** na Anhanguera\
+💼 Formado em:\
+• Técnico em **Desenvolvimento de Sistemas** – Etec de Poá
+
+---
+
+### 🛠️ Tecnologias & Interesses:
+
+- Back-end: Java,Node.js
+- Banco de Dados: MySQL
+- Front-end básico: HTML, CSS, JavaScript
+- Interesse em Mobile, Cloud e Inteligência Artificial
+
+---
+
+⭐ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e contribuir com ideias! 🚀
+
