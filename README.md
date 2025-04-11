@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Vinicius de Araujo Bonfim</h1>
+<h1 align="center">Vinicius de Araujo Bonfim</h1>
 <p align="center">
   <i>Full-Stack Developer • Estudante de Engenharia da Computação</i>
 </p>
@@ -41,6 +41,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
 </div>
+<img src="https://github.com/seu-usuario/seu-repo/blob/main/imagens/tecnologias-banner.png" alt="Tech Banner" width="100%" />
 
 ---
 
