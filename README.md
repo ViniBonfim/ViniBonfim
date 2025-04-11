@@ -33,7 +33,7 @@
 ## 🤝 Conecte-se comigo
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vinicius-bonfim-b89641205/" target="_blank">
+  <a href="https://www.linkedin.com/in/vinicius-bonfim-b89641205/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
 </div>
