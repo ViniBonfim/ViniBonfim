@@ -13,16 +13,14 @@
 🚀 **Proano** com orgulho — em formação pelo Instituto PROA  
 🛠️ Explorando o universo da programação com foco em **Back-end**  
 🌌 Integrante do projeto **Gatorion**, que une educação e astronomia  
-
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</div>
 <p align="center">
   ✨ <i>"O universo é infinito. Seu potencial também."</i>
 </p>
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciusbonfm&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbonfm&layout=compact&theme=tokyonight" height="160" />
-</div>
 
 
 ## 💼 Tecnologias e Ferramentas
@@ -39,9 +37,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</div>
+
 
 ---
 
