@@ -1,10 +1,8 @@
 <h1 align="center">Vinicius de Araujo Bonfim</h1>
 <p align="center">
-  <i>Full-Stack Developer • Estudante de Engenharia da Computação</i>
+  <i>Full-Stack Developer • Estudante de Engenharia da Computação • Proano </i>
 </p>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,python,mysql" />
-</div>
+
 
 ---
 
@@ -22,16 +20,8 @@
 ## 💼 Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,python,mysql" />
 </div>
-
 ---
 
 ## 🤝 Conecte-se comigo
@@ -41,7 +31,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
 </div>
-<img src="https://github.com/seu-usuario/seu-repo/blob/main/imagens/tecnologias-banner.png" alt="Tech Banner" width="100%" />
 
 ---
 
