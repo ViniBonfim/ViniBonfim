@@ -6,15 +6,18 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍🚀 Sobre mim
 
-🎓 Estudante de Engenharia da Computação na Anhanguera 
-🎓 Técnico em Desenvolvimento de Sistemas
-💡 Explorando o mundo da programação com foco em Back-end  
-🚀 Integrante do Projeto Gatorion pelo Instituto PROA   
+🎓 Estudante de **Engenharia da Computação** na Anhanguera  
+🧑‍💻 Técnico em **Desenvolvimento de Sistemas** pela Etec de Poá  
+🚀 **Proano** com orgulho — em formação pelo Instituto PROA  
+🛠️ Explorando o universo da programação com foco em **Back-end**  
+🌌 Integrante do projeto **Gatorion**, que une educação e astronomia  
+
 <p align="center">
-  ✨ *"O universo é infinito. Seu potencial também."*
+  ✨ <i>"O universo é infinito. Seu potencial também."</i>
 </p>
+
 ---
 
 ## 💼 Tecnologias e Ferramentas
@@ -27,7 +30,7 @@
 ## 🤝 Conecte-se comigo
 
 <div align="center">
-  <a href="www.linkedin.com/in/vinicius-bonfim-b89641205" target="_blank">
+  <a href="https://www.linkedin.com/in/vinicius-bonfim-b89641205/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
 </div>
