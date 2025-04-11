@@ -19,6 +19,11 @@
 </p>
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viniciusbonfm&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbonfm&layout=compact&theme=tokyonight" height="160" />
+</div>
+
 
 ## 💼 Tecnologias e Ferramentas
 
@@ -33,6 +38,9 @@
   <a href="https://www.linkedin.com/in/vinicius-bonfim-b89641205/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </div>
 
 ---
